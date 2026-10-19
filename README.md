@@ -20,7 +20,7 @@
 
 ## 👋 Merhaba, ben Oğuz
 
-Yazılımcıyım. Eğitimim **Matematik ve Bilgisayar Bilimleri** ile **Yönetim Bilişim Sistemleri** üzerine; yani hem algoritma tarafını hem de işin iş/ürün tarafını seviyorum. Yapay zekâyı bir oyuncak değil **üretim aracı** olarak kullanıyorum: fikri bir AI ajanla birlikte tasarlıyor, kodluyor ve mağazaya kadar götürüyorum.
+Yazılımcıyım. Eğitimim **Matematik ve Bilgisayar Bilimleri** ile **Yönetim Bilişim Sistemleri** üzerine tamamladım. Bu bölümler bana hem algoritma tarafını hem de işin iş/ürün tarafını yönetebilmeyi sağladı. Yapay zekâyı bir oyuncak değil **üretim aracı** olarak kullanıyorum: fikri bir AI ajanla birlikte tasarlıyor, kodluyor ve mağazaya kadar götürüyorum.
 
 ```ts
 const oguz = {
